@@ -6,7 +6,7 @@
 
 body {
   min-height: 100vh;
-  background-image: url('./images/bg-2.jpg');
+  background-image: url('images/bg-2.jpg');
   background-size: cover;
   font-family: 'Poppins', sans-serif;
 }
